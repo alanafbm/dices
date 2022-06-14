@@ -65,6 +65,8 @@ throw(){
     }.bind(this), this._timer);
 }
 
+/*Changer algumas coisa
+
 /**
  * Reset les dés et le total
  */
